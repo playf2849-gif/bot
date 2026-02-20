@@ -1,0 +1,62 @@
+{
+  "users": {
+    "8384293541": {
+      "balance": 2.0,
+      "numbers": [],
+      "username": "@htmlcrack",
+      "start_message": {
+        "chat_id": 8384293541,
+        "message_id": 78,
+        "is_photo": true
+      }
+    },
+    "403783852": {
+      "balance": 0.0,
+      "numbers": [],
+      "username": "@o392oo",
+      "start_message": {
+        "chat_id": 403783852,
+        "message_id": 62,
+        "is_photo": true
+      }
+    },
+    "8336825808": {
+      "balance": 1.0,
+      "numbers": [
+        1771612132670
+      ],
+      "username": "@podphfdyj",
+      "start_message": {
+        "chat_id": 8336825808,
+        "message_id": 64,
+        "is_photo": true
+      }
+    },
+    "8490615785": {
+      "balance": 0.0,
+      "numbers": [],
+      "username": "@KoIpaklays",
+      "start_message": {
+        "chat_id": 8490615785,
+        "message_id": 80,
+        "is_photo": true
+      }
+    }
+  },
+  "queue": [
+    {
+      "id": 1771612132670,
+      "user_id": 8336825808,
+      "username": "podphfdyj",
+      "number": "79165427503",
+      "timestamp": "2026-02-20T20:28:52.670482"
+    }
+  ],
+  "withdrawals": [],
+  "awaiting_code": {},
+  "user_state": {
+    "8384293541": "withdrawing_amount",
+    "403783852": "adding_number",
+    "8336825808": null
+  }
+}
